@@ -1,0 +1,2 @@
+os testes e exercicios estão sendo feitos no proprio projeto que é um executor de regex.
+também estão sendo feitos exercícios objetivos na plataforma da Alura.
